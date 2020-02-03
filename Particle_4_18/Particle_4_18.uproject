@@ -1,0 +1,12 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{63BCEC0B-4605-5E1D-D0D8-148AA3ED4A67}",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "UIParticleSystem",
+			"Enabled": true
+		}
+	]
+}
